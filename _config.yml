@@ -92,12 +92,10 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#1E1F1A"
 navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#1e1f1a"
-#FFF
-#text-col: "#404040"
+navbar-border-col: "#2b2d26"
+page-col: "#1E1F1A"
 text-col: "#597713"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -225,6 +223,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
