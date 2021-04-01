@@ -29,7 +29,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+#title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #
@@ -62,13 +62,13 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
@@ -98,10 +98,10 @@ navbar-text-col: "#404040"
 navbar-border-col: "#2b2d26"
 page-col: "#1E1F1A"
 text-col: "#597713"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#8A2BE2"
+hover-col: "#8A2BE2"
 footer-col: "#1E1F1A"
-footer-text-col: "#777777"
+footer-text-col: "#404040"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
