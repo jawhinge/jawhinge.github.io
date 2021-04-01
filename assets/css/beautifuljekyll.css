@@ -124,13 +124,14 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  {% if site.navbar-img %}
+  /* background-color: {{ site.navbar-col | default: "#EAEAEA" }}; */
+  /* border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }}; */
+  /* {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
-  {% endif %}
+  {% endif %} */
+  font-family: 'IBM Plex Mono', monospace;
+  background: transparent;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
   transition: padding .5s ease-in-out;
@@ -372,7 +373,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  /* border-top: 1px #EAEAEA solid; */
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -469,9 +470,9 @@ footer .footer-custom-content {
 .post-heading .post-meta {
   color: #808080;
   font-size: 1.125rem;
-  font-style: italic;
+  /* font-style: italic; */
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  /* font-family: 'Lora', 'Times New Roman', serif; */
 }
 .post-heading .post-meta {
   display: inline-block;
@@ -616,10 +617,10 @@ footer .footer-custom-content {
 }
 .intro-header.big-img {
   background: no-repeat center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
 }
@@ -867,10 +868,11 @@ pre {
   margin: 0;
 }
 .highlight > pre {
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
   background-size: auto 3em;
-  background-position-y: 0.625rem;
+  background-position-y: 0.625rem; */
+  background: #fff;
   border: 1px solid rgba(0,0,0,0.1);
   border-left: 0.4375rem solid #444;
 }
@@ -994,4 +996,25 @@ pre {
 .center {
   display: block;
   margin: 0 auto;
+}
+/* ADDITIONS */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+body{
+  z-index: 2;
+  position: inherit;
 }

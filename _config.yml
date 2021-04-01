@@ -14,9 +14,10 @@ author: Jawhinge
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Home: 'index.html'
   Music: "music"
   Code: "code"
+  About Me: "aboutme"
 
 # --- Logo --- #
 
@@ -37,18 +38,18 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "durankievg@gmail.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  instagram: jawhingemusic
+  github: Clawfngr
   patreon: DeanAttali
   youtube: c/daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -93,14 +94,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1E1F1A"
+navbar-col: "#fff"
 navbar-text-col: "#404040"
 navbar-border-col: "#2b2d26"
-page-col: "#1E1F1A"
-text-col: "#597713"
+page-col: "#fff"
+text-col: "#404040"
 link-col: "#8A2BE2"
 hover-col: "#8A2BE2"
-footer-col: "#1E1F1A"
+footer-col: "transparent"
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 
@@ -184,7 +185,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Sofia"
+#timezone: "Europe/Sofia"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
