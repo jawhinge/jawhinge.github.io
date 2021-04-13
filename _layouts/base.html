@@ -45,7 +45,26 @@ common-js:
         minDistance: 150,
         speed: 0.2,
         sizeVariations: 5,
-        color:'#cda4f3'
+        color:'#cda4f3',
+        responsive: [
+          {
+            breakpoint: 768,
+            options: {
+              maxParticles: 60,
+            }
+          }, 
+          {
+            breakpoint: 425,
+            options: {
+              maxParticles: 30,
+            }
+          }, 
+          {
+            breakpoint: 320,
+            options: {
+              maxParticles: 20
+            }
+          }]
       });
     };
   
