@@ -9,12 +9,12 @@
 title: Jawhinge's Digital Headspace
 
 # Your name to show in the footer
-author: Jawhinge
+author: The artist formerly known as Jawhinge
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: 'index.html'
+  Digital Alchemy: 'index.html'
   Music: "music"
   Code: "code"
   About Me: "aboutme"
@@ -39,11 +39,13 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "durankievg@gmail.com"
-  facebook: deanattali
+  facebook: gdurankiev
   instagram: jawhingemusic
-  github: Clawfngr
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: jawhinge
+  youtube: /c/UCt_MChL9-1rcq0au8G5eRrw
+  spotify: /artist/6eZZo3ipADRvFtDAngyd4z
+  soundcloud: jawhinge
+#  patreon: DeanAttali
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
@@ -70,8 +72,8 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
