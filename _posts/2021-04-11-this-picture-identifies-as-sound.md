@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Beautiful Binary Disasters (1/2)
+title: This picture identifies as sound
 subtitle: Breaking images into submission (or useless data)
 tags: [visuals, glitch]
 comments: false
 ---
 
-In typical western white suburban fashion, let me take you back to when I was about 16 and all the pretty girls around me were getting into camera filters. I'd often see pictures with weird chunks of them in different colors or pictures in anaglyph 3D. Did that inspire me? Fuck no, not in any way you'd like to know about.
+In typical white suburban fashion, let me take you back to when I was about 16 and all the pretty girls around me were getting into camera filters. I'd often see pictures with weird chunks of them in different colors or pictures in anaglyph 3D. Did that inspire me? Fuck no, not in any way you'd like to know about.
 
 **What actually happened** was, about that time I got into Linux. From Linux I learned that you could recover lost files from corrupted HDDs or USB sticks. Having been on the receiving end for a few such fateful data fuck-ups, I decided to give it a whirl. At this time, an old and decrepid USB stick found its way to my 4-th hand [HP Compaq 6715B](https://www.cnet.com/products/hp-compaq-6715b-15-4-turion-64-x2-tl-64-vista-business-2-gb-ram-120-gb-hdd-series/) and off I go typing in the esoteric incantations that would necromance it back to life. The result were... *rather iffy*. 
 
-They looked broken - streaks of magenta-green corruption covered whatever I had managed to salvage. But there was something mesmerizing about *the sound structure, filled with something broken*. 
+They looked broken - streaks of magenta-green corruption covered whatever I had managed to salvage. But there was something mesmerizing about *the correct structure, filled with something broken*. 
 
 I couldn't tell you when I decided to start breaking files on purpose if you pointed a gun to my head but I still have the result. 
 
 ![Beach Glitch](https://i.imgur.com/VAIBEe3.jpg){: .mx-auto.d-block :}
-*This being a picture of a beach I took with my brand spanking new Motorola MotoG*
+*This being a picture of a beach I took with my brand spanking new 1st Gen Motorola MotoG*
 
 How did I get it to look like that with zero image editing software? 
 
