@@ -6,21 +6,27 @@ subtitle: Any/all audio-related projects
 
 # This is a hobby gone very wrong
 
-![Me](https://i.imgur.com/PpOo3tD.jpg)
+![Me](https://i.imgur.com/fKTJftl.jpg)
 
 <iframe scrolling="no" style="border: 0;width: 100%;height: 50px;" src="https://bandcamp.com/band_follow_button_deluxe/3377277413"></iframe>
 
-**I do music**. It's not *"this"* music or *"that"* music but it's some sort of music that I do.  
+**I do "music"**. It's not what you expect of music. It's not even what I expect of music.
 
-Quite frankly it's not where I want it to be. You will see controversial words and topics on this page and that's ok because this is a space for self expression. 
+It makes me happy and it makes the dozen people listening to it happy too. It's a good thing, that. Happy and all...
 
-I am working on my **third album** which will at least be technically way higher than my previous two. I estimate it will be done by **fall 2021**
+I am working on my **fourth album**. 
 
-My whole journey with music has to do a lot with the pleasure **I** get from it and not **you**. But if you like it and think it has the tiniest bit of value for you, we're already friends.
+It's a very subjective and personal thing. I've never felt like being in a band or doing any sort of collaboration, I just want to sit in my dusty music space and just have a good old time on my own with my overly expensive toys that a 12 year old laptop could replace. But hey, why not?
 
 ### [Click here](https://distrokid.com/hyperfollow/jawhinge/the-idiot-faced-the-crowd) - I'm on most streaming services   
 <br/>
 ## Albums
+
+### Jawhinge - 2022
+
+I named this one so because with it I finally found my place in music and finally put some concentrated effort into making what I like to hear. It's still a wank but it's the best one so far. Also the last album that featured any sort of PC-oriented production. By the end of it I had already gone DAW-less.
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2972862432/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jawhinge.bandcamp.com/album/jawhinge">Jawhinge by Jawhinge</a></iframe>
 
 ### The Idiot Faced The Crowd - 2019
 
